@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nathalie</h1>
-<h3 align="center">A passionate developer from Germany, who is still learning.</h3>
+<h3 align="center">A developer in the making from Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silahviing&label=Profile%20views&color=0e75b6&style=flat" alt="silahviing" /> </p>
 
 - 🔭 I’m currently working on [Hangman](https://github.com/Silahviing/Hangman)
 
 - 🌱 I’m currently learning **Java**
+
+- 👓 I want to learn lots of different programming languages
+
+- 💼 I'm currently an intern at **DocHouse GmbH** in Germany
+
+- 🐈 I have a lovely cat named Finn
+
+- ❤️ I'm in a long-term relationship
 
 
 <h3 align="left">Languages and Tools:</h3>
