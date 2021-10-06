@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silahviing&label=Profile%20views&color=0e75b6&style=flat" alt="silahviing" /> </p>
 
-- 🔭 I’m currently working on [Hangman](https://github.com/Silahviing/Hangman)
+- 🔭 I’m currently working on [BitPaper](https://github.com/Silahviing/BitPaper) for school
 
-- 🌱 I’m currently learning **Java** and **C++**
+- 🌱 I’m currently learning **Java**, **HTML(with CSS & Bootstrap)** and **C++**
 
 - 👓 I want to learn lots of different programming languages
 
-- 💼 I'm currently an intern at **DocHouse GmbH** in Germany
+- 💼 I'm currently an apprentice at **DocHouse GmbH** in Germany
 
 - 🐈 I have a lovely cat named Finn
 
