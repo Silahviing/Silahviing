@@ -9,7 +9,7 @@
 
 - 👓 I want to learn lots of different programming languages
 
-- 💼 I'm currently an apprentice at **DocHouse GmbH** in Germany
+- 💼 I'm currently lerning to become a software developer at **DocHouse GmbH** in Germany
 
 - 🐈 I have a lovely cat named Finn
 
